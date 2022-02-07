@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/CLionProjects/LotteryNumbers/LotteryNumbers.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cctype
+-
+iomanip
+-
+

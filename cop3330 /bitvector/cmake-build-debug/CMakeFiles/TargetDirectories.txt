@@ -1,0 +1,3 @@
+/Users/jerry/Library/Mobile Documents/com~apple~CloudDocs/MAC/CLionProjects copy/bitvector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jerry/Library/Mobile Documents/com~apple~CloudDocs/MAC/CLionProjects copy/bitvector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerry/Library/Mobile Documents/com~apple~CloudDocs/MAC/CLionProjects copy/bitvector/cmake-build-debug/CMakeFiles/bitvector.dir

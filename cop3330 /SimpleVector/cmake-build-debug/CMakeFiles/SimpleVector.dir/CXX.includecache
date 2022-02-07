@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/CLionProjects/SimpleVector/main.cpp
+iostream
+-
+simplevector.h
+/Users/admin/CLionProjects/SimpleVector/simplevector.h
+
+/Users/admin/CLionProjects/SimpleVector/simplevector.h
+iostream
+-
+new
+-
+cstdlib
+-
+

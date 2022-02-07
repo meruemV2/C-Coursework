@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="shape" targetName="shape" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c0777df-d7d2-4ec5-b920-60ae555feafa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1drIWH4bimBRtCAACzTl3XCHHMN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="shape" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="shape" TARGET_NAME="shape" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="shape" RUN_TARGET_NAME="shape">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c0777df-d7d2-4ec5-b920-60ae555feafa" name="Default Changelist" comment="" />
+      <created>1593176814565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593176814565</updated>
+      <workItem from="1593176819106" duration="6941000" />
+      <workItem from="1593220687377" duration="1432000" />
+      <workItem from="1593264027364" duration="2081000" />
+      <workItem from="1593275065526" duration="3543000" />
+      <workItem from="1593303356435" duration="5201000" />
+      <workItem from="1593311083253" duration="47000" />
+      <workItem from="1593311298656" duration="27000" />
+      <workItem from="1593312763845" duration="180000" />
+      <workItem from="1593313758873" duration="46000" />
+      <workItem from="1593313915688" duration="32000" />
+      <workItem from="1593314258069" duration="597000" />
+      <workItem from="1593315274321" duration="177000" />
+      <workItem from="1593368233202" duration="1902000" />
+      <workItem from="1593378670444" duration="2119000" />
+      <workItem from="1593627266423" duration="1201000" />
+      <workItem from="1594065501742" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1593195951576">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="828" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1440.820@0.23.1440.820" timestamp="1593195951576" />
+    <state width="801" height="179" key="GridCell.Tab.0.bottom" timestamp="1593382691147">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="801" height="179" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1593382691147" />
+    <state width="801" height="179" key="GridCell.Tab.0.center" timestamp="1593382691147">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="801" height="179" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1593382691147" />
+    <state width="801" height="179" key="GridCell.Tab.0.left" timestamp="1593382691146">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="801" height="179" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1593382691146" />
+    <state width="801" height="179" key="GridCell.Tab.0.right" timestamp="1593382691147">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="801" height="179" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1593382691147" />
+    <state x="258" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1594065508191">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="258" y="226" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1593378707796" />
+    <state x="258" y="226" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1594065508191" />
+    <state x="18" y="141" width="601" height="702" key="dock-window-1" timestamp="1593313768118">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="42" y="23" width="601" height="702" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1593177883027" />
+    <state x="18" y="141" width="601" height="702" key="dock-window-1/0.23.1440.820@0.23.1440.820" timestamp="1593313768118" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1593305679124">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.820@0.23.1440.820" timestamp="1593305679124" />
+    <state x="723" y="167" key="search.everywhere.popup" timestamp="1593176856889">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="723" y="167" key="search.everywhere.popup/0.23.1440.820@0.23.1440.820" timestamp="1593176856889" />
+  </component>
+</project>
