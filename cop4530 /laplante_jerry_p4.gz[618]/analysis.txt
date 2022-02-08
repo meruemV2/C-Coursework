@@ -1,0 +1,1 @@
+Worst-case time complexity of makeEmpty(BinaryNode* & t) is O(n) since it is a recursive function that goes through each node in a tree.

@@ -1,0 +1,13 @@
+Big O analysis for:
+
+Reading the input set:
+O(log N) because map's insert is logN 
+
+Storing the characters / words / numbers in your chosen containers, and setting their tracking values:
+O(log N) because it stores while it's reading in the data
+
+Looking up the final tracking info on your character / word / number frequencies:
+O(N^2) because it uses loops to insert and sort them using vector sorting 
+algorithms which is O(N·log(N))
+Deciding on (and accessing for output) your "Top Ten" most frequent list for each:
+O(N·log(N)) because it uses the sorting algorithm for vectors then simply prints the top of the list of vectors 

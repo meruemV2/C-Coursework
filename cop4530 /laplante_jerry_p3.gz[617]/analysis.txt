@@ -1,0 +1,1 @@
+Worst case run time complexity of  clear() in Stack implementation is linear or O(n) in Big-O Notation because it has to delete each individual element 

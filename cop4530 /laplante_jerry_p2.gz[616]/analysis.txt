@@ -1,0 +1,8 @@
+Worst-case run-time of reverse()
+
+Run time complexity in Big-O is O(1) or linear, the same run time as a swap function. 
+
+
+Worst-case run-time of remove_if()
+
+Run time complexity in Big-O is O(n)
